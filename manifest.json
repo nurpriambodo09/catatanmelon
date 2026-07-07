@@ -1,6 +1,6 @@
 {
-  "name": "Aplikasi Catatan Kilat",
-  "short_name": "CatatanPWA",
+  "name": "Aplikasi Catatan GH Melon",
+  "short_name": "Catatan Kegiatan GH Melon",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
